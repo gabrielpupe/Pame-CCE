@@ -1,0 +1,210 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+html,
+header{
+    height: 100%;
+}
+
+header{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:white ;
+}
+
+
+div{
+    display:flex;
+    width:25%;
+    height:50%;
+    border-radius: 10px;
+}
+
+form{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 100%;
+}
+
+img{
+    width: 30%;
+    margin-bottom: 10%;
+}
+
+
+#Ig{
+    width: 30%;
+    
+    padding-left: 130%;
+    padding-top: 5%;
+    
+   
+    
+}
+
+#bussola{
+    width: 5%;
+    height: 25px;
+    padding-left: 5%;
+    padding-top: 5%;  
+
+}
+
+#navegador{
+    width: 5%;
+    height: 25px;
+    padding-left: 100%;
+    padding-top: 5%;
+}
+
+#coracao{
+    width: 5%;
+    height: 25px;
+    padding-left:3%;
+    padding-top: 5%;
+}
+
+#origami{
+    width: 5%;
+    height: 25px;
+    padding-left:5%;
+    padding-top: 5%;
+}
+
+
+
+
+
+
+#pesquisar{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    
+    width: 25%;
+    height: 25px;
+    margin-bottom: 3%;
+    border-radius: 3px;
+    color:#eee;
+    font-weight: bold;
+    cursor:text;
+    outline: none;
+    padding-left: 10%;
+    
+    
+    
+    
+}
+
+#caveira{
+    padding-left: 28%;
+}
+
+.comentario{
+    width: 5%;
+    height: 25px;
+    padding-bottom: 100%;
+    position: relative;
+    bottom:500px; 
+       
+}
+
+
+
+
+
+
+.compartilhar{
+    width: 5%;
+    height: 25px;
+    padding-bottom: 100%;
+    padding-left: 35%;
+    position: relative;
+    bottom:330px; 
+    right:90px;   
+}
+
+
+.save{
+    width: 5%;
+    height: 25px;
+    padding-bottom: 100%;
+    padding-right:20%;
+    position: relative;
+    bottom:330px;
+}
+
+
+
+
+
+
+
+.content {
+    flex: 1;
+    display: flex;
+    
+}
+
+#icone_fluxo{
+    width: 32px;
+    height: 32px;
+    
+}
+
+
+
+
+
+
+
+.flex-container {
+    display: flex;
+    flex-direction: column;    
+    align-items: center;
+    overflow-y: scroll;
+    
+
+    
+    position:absolute;
+    top:118px;
+    left:50%;
+  
+}
+
+.flex-item{
+    font-weight: 800;
+    
+    
+}
+
+
+#comentario{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    
+    width: 25%;
+    height: 25px;
+    margin-bottom: 3%;
+    border-radius: 3px;
+    color:#eee;
+    font-weight: bold;
+    cursor:text;
+    outline: none;
+    padding-left: 10%;
+    padding-left: 10%;
+}
+
+
+
+
+
+
+
+
+
