@@ -86,7 +86,7 @@ img{
     align-items: center;
     
     width: 25%;
-    height: 25px;
+    height: 30%;
     margin-bottom: 3%;
     border-radius: 3px;
     color:#eee;
@@ -166,6 +166,16 @@ img{
     
 }
 
+#pontinhos{
+    width: 32px;
+    height: 32px;
+    background-color: red;
+    padding-bottom: 100%;
+    padding-left: 35%;
+    position: relative;
+    bottom: 1000px;
+}
+
 
 
 
@@ -178,7 +188,7 @@ img{
     align-items: center;
     overflow-y: scroll;
     height: 40%;
-    width: 50%;
+    width: 45%;
 
     
     position:absolute;
@@ -190,9 +200,20 @@ img{
 
 .flex-item{
     font-weight: 800;
+    position: relative;
+    right:40px;
     
     
 }
+.flex-item{
+    font-weight: 800;
+    position: relative;
+    right:40px;
+    
+    
+}
+
+
 
 
 #comentario{
@@ -200,16 +221,19 @@ img{
     justify-content:center ;
     align-items: center;
     
-    width: 25%;
-    height: 25px;
+    width: 20%;
+    height: 40px;
     margin-bottom: 3%;
     border-radius: 3px;
     color:#eee;
     font-weight: bold;
     cursor:text;
     outline: none;
-    padding-left: 10%;
-    padding-left: 10%;
+    
+    position: relative;
+    bottom: 2172px;
+    left:1104px;
+    
 }
 
 
